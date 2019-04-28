@@ -1,0 +1,15 @@
+{
+  "name": "vibedealer-youtube-bot",
+  "version": "0.0.1",
+  "description": "Bot that listens for messages with a youtube link and posts the videos to a given playlist",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antoine BENOIT",
+  "license": "ISC"
+}
