@@ -32,5 +32,4 @@ client.on('message', message => {
 });
 
 // Log our bot in using the token from https://discordapp.com/developers/applications/me
-https://discordapp.com/api/webhooks/572145197966819527/cKmn6Ia1kcWo3B8agkut1XEDx6dKHBAOuQUR5eaku4kir7n2uI98rvzuUYe4fwmXXAuu
-client.login('NTM4NDQ2MTAwOTYxNjg5NjIw.XMYCog.TxG-wOv1MlXYXga4_EkDxOycMd4');
+client.login('<token>');
